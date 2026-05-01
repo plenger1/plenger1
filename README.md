@@ -1,16 +1,39 @@
-## Hi there 👋
+# ⚡ [ DITJIE - CORE OVERRIDE ] ⚡
+> **STATUS:** QUANTUM ACTIVE | **ROLE:** ELITE DEVELOPER | **ACCESS:** GRANTED
 
-<!--
-**plenger1/plenger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 [ SYSTEM STATUS ]
+* **IDENTITY:** DITJIE
+* **SKILLSET:** WEB EXPLOITATION / ANDROID MODDING / STORAGE SYSTEM
+* **MOTTO:** NO RULES, NO LIMITS, JUST CODE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 [ TECH STACK ]
+`HTML5` `CSS3` `TAILWIND` `JAVASCRIPT` `TELEGRAM BOT` `NETLIFY` `ANDROID IDE`
+
+---
+
+### 📂 [ PROJECTS ]
+* **[QUANTUM STORAGE]** - WEB-BASED ENCRYPTED DATA REPOSITORY.
+* **[BOT GACOR]** - HIGH-PERFORMANCE TELEGRAM BOT CORE.
+* **[SC-X OVERRIDE]** - PRIVATE SOURCE CODE ARCHIVE.
+
+---
+
+### 📊 [ SYSTEM STATISTICS ]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plenger1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plenger1&layout=compact&theme=tokyonight)
+
+---
+
+### 💀 [ WARNING ]
+> **"JANGAN COBA-COBA RESET ATAU BYPASS. SISTEM INI DI LINDUNGI BOM CIP QUANTUM. SEKALI MELANGGAR, DATA LU ANCUR PERMANEN."**
+
+---
+
+### 🔗 [ CONNECT WITH OWNER ]
+[![](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/king_ditjiedev)
+[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com)
+
